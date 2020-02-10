@@ -1,7 +1,7 @@
 # express-react_crud
 React Express CRUD
 
-### Directions
+### Directions: Feel free to use any past lectures/repos to help you along the way.
 1. Look into the files and see what is needed to complete your backend.
 1. Create the `client` directory with `npx create-react-app superheroes`
 1. Build out your client with full CRUD operations
